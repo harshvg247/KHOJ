@@ -3,7 +3,7 @@ a {
   }
   
   body {
-    background-image: url("https://svgshare.com/i/SCE.svg"), url("https://svgshare.com/i/SCh.svg");
+
     background-position: top right, bottom left;
     /* this positions the second image */
     background-size: 50% 50%;
@@ -17,7 +17,9 @@ a {
     display: -ms-grid;
     display: grid;
     place-items: center;
+    
   }
+  
   
   .main form h2 {
     padding: 10px 50px;
