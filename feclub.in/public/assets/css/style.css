@@ -457,7 +457,9 @@ button:focus {
     margin-left: auto;
     margin-right: auto;
 }
-
+.feature-area{
+    margin-top: 30rem;
+}
 .feature-area .section-title {
     text-align: left;
 }
@@ -1047,6 +1049,7 @@ button:focus {
     box-shadow: none;
     border: 0;
 }
+
 
 #Container .mix {
     display: none;
@@ -2981,8 +2984,8 @@ button:focus {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 230px;
-    padding-bottom: 135px;
+    padding-top: 130px;
+    padding-bottom: 235px;
 }
 
 .page-title-item {
@@ -3004,7 +3007,7 @@ button:focus {
 .page-title-item h2 {
     font-size: 40px;
     color: #ffffff;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .page-title-item ul {
